@@ -1,0 +1,1 @@
+# Insta Pro v15.50\n\nDownload release assets from the Releases page.
